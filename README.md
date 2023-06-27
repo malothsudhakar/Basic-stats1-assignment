@@ -1,1 +1,1 @@
-# Basic-stats1-assignment
+DATA SCIENCE ASSIGNMENTS
